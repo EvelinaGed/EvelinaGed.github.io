@@ -28,7 +28,9 @@
         
         
         
-          Čia yra mano katinas. Jis nerėkauja.
+          
+Čia yra mano katinas. Jis nerėkauja.
+def greet(name): print(f&amp;#34;Hello, {name}!&amp;#34;) 
           
         
         </description>
